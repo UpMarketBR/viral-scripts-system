@@ -1,0 +1,156 @@
+{
+  "profiles": [
+    {
+      "name": "Ricardo Amorim",
+      "handle": "@ricamorim",
+      "platform": "instagram",
+      "followers": 0,
+      "avg_engagement": 0
+    },
+    {
+      "name": "Filipe Deschamps",
+      "handle": "@filipedeschamps",
+      "platform": "youtube",
+      "followers": 0,
+      "avg_engagement": 0
+    },
+    {
+      "name": "Danilo Gato",
+      "handle": "@odanilogato",
+      "platform": "instagram",
+      "followers": 0,
+      "avg_engagement": 0
+    },
+    {
+      "name": "Rafael Milagre",
+      "handle": "@rafaelmilagre",
+      "platform": "instagram",
+      "followers": 0,
+      "avg_engagement": 0
+    },
+    {
+      "name": "Walter Longo",
+      "handle": "@wlongo",
+      "platform": "instagram",
+      "followers": 0,
+      "avg_engagement": 0
+    },
+    {
+      "name": "Pedro Waengertner",
+      "handle": "@pedrowaengertner",
+      "platform": "youtube",
+      "followers": 0,
+      "avg_engagement": 0
+    }
+  ],
+  "viral_videos": [
+    {
+      "url": "https://www.instagram.com/p/DQUqJy1jq0K/",
+      "profile": "@ricamorim",
+      "platform": "instagram",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "description": "A maior revolução da nossa geração já..."
+    },
+    {
+      "url": "https://www.instagram.com/p/DQW7LjZAEgR/",
+      "profile": "@ricamorim",
+      "platform": "instagram",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "description": "IA é o novo Excel."
+    },
+    {
+      "url": "https://www.instagram.com/reel/DVXCU2BjRoJ/",
+      "profile": "@ricamorim",
+      "platform": "instagram",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "description": "Boas tecnologias não substituem pessoas, substituem erros."
+    },
+    {
+      "url": "https://www.instagram.com/p/DOdTT4XjozS/",
+      "profile": "@ricamorim",
+      "platform": "instagram",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "description": "O Brasil já é Top 3 no mundo em uso do ChatGPT"
+    },
+    {
+      "url": "https://www.instagram.com/p/DTF9E2_iCCP/",
+      "profile": "@ricamorim",
+      "platform": "instagram",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "description": "A IA está evoluindo mais rápido do que você imagina."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=vaFHawMRsps",
+      "profile": "@filipedeschamps",
+      "platform": "youtube",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "description": "O Fim da Programação: Minha Opinião DEFINITIVA"
+    },
+    {
+      "url": "https://www.instagram.com/p/DUs5YiOliZK/",
+      "profile": "@odanilogato",
+      "platform": "instagram",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "description": "Discussões sobre as 3 soluções de IA que transformarão pequenas empresas em 2026"
+    },
+    {
+      "url": "https://www.instagram.com/reel/DWAKTfTjrqY/",
+      "profile": "@rafaelmilagre",
+      "platform": "instagram",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "description": "Reels explicando que a IA já deixou de ser tendência e é uma realidade"
+    },
+    {
+      "url": "https://www.instagram.com/reel/DRXhcsAieZw/",
+      "profile": "@rafaelmilagre",
+      "platform": "instagram",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "description": "Conteúdos sobre como usar inteligência artificial para acelerar pequenas e médias empresas"
+    },
+    {
+      "url": "https://www.instagram.com/reel/DV_6TaKiHxP/",
+      "profile": "@wlongo",
+      "platform": "instagram",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "description": "Reflexões sobre como a tecnologia avança, mas a estratégia é o que diferencia os negócios"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=MUTTx_k7M2Y",
+      "profile": "@wlongo",
+      "platform": "youtube",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "description": "Discussões sobre o que é inovação e o papel da IA"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=hATWDeUtWRQ",
+      "profile": "@pedrowaengertner",
+      "platform": "youtube",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "description": "Masterclass sobre inovação e como se tornar um gestor de inovação"
+    }
+  ]
+}

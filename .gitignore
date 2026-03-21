@@ -1,0 +1,13 @@
+.env
+__pycache__/
+*.pyc
+temp/
+logs/
+transcriptions/*.json
+analysis/*.json
+scripts/*.json
+output/*.pdf
+output/*.html
+inputs/test_*.txt
+inputs/manus_prompt.txt
+.streamlit/secrets.toml
