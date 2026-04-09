@@ -4,12 +4,17 @@ Uso: streamlit run app.py
 """
 
 import json
+import os
 import subprocess
 import sys
 import time
 from pathlib import Path
 
 import streamlit as st
+
+# ── Carregar API key de secrets (Streamlit Cloud) ou .env (local) ────
+if hasattr(st, "secrets") and "OPENAI_API_KEY" in st.secrets:
+    os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
 
 # ── Caminhos ─────────────────────────────────────────────────────────
 SRC_DIR = Path(__file__).resolve().parent
@@ -20,6 +25,10 @@ ANALYSIS_DIR = PROJECT_ROOT / "analysis"
 SCRIPTS_DIR = PROJECT_ROOT / "scripts"
 OUTPUT_DIR = PROJECT_ROOT / "output"
 PYTHON = sys.executable
+
+# Garantir que diretórios existam (necessário no deploy)
+for _d in [INPUTS_DIR, TRANSCRIPTIONS_DIR, ANALYSIS_DIR, SCRIPTS_DIR, OUTPUT_DIR]:
+    _d.mkdir(parents=True, exist_ok=True)
 
 # ── Configuração da página ───────────────────────────────────────────
 st.set_page_config(
